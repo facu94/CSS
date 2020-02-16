@@ -189,6 +189,11 @@ p {
 	#titulo {
 		text-align: center;
 	}
+
+	#contenido {
+		width: 100%;
+		margin: 0 auto;
+	}
 	
 	#menu {
 		text-align: center;
